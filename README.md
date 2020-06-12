@@ -6,7 +6,7 @@
 A **Casa Criativa** é uma aplicação para armazenar ideias para fazer durante a crise. O usuário pode cadastrar uma nova ideia, adicionar um ícone, descrição e link a ela. No fim, o usuário pode visualizar todas as ideias cadastradas.
 
 ![home](screenshots/home.PNG)
-![home](screenshots/novaIdeIa.PNG)
+![home](screenshots/novaIdeia.PNG)
 ![home](screenshots/todasIdeias.PNG)
 
 
